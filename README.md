@@ -21,11 +21,17 @@ I am Abhay Kardate, currently pursuing a Bachelor’s degree in Electronics and 
 📚Throughout my academic journey and practical experiences, I have honed my expertise in:
 
 • Programming Languages: Java, HTML, CSS, JavaScript
+
 • Database Management: Mongodb,SQL, Database Design🗂️
+
 • Core Concepts: Data Structures, Algorithms📊
+
 • Web Development🌐
+
 • Software Engineering🧑‍💻
+
 • Networking🌎
+
 My goal is to leverage these skills to drive innovation, create impactful solutions, and contribute to the success of forward-thinking organizations.🌟
 
 I am currently seeking opportunities that align with my passion for technology and offer avenues for both personal and professional growth.📈
